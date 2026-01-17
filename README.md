@@ -49,21 +49,6 @@ Atualmente, meu foco está no desenvolvimento de soluções robustas utilizando 
 
 ---
 
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaabsilva04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabsilva04&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-### 🛠️ Contribuições e Atividade
-
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaabsilva04I&theme=dracula" />
-</div>
-
----
-
 ## 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL)
