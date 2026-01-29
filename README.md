@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel Ribeiro Silva 👋
 
-### Desenvolvedor Fullstack | Analista de Dados Júnior
+### Desenvolvedor Fullstack | Analista de Dados
 
 Profissional com sólida trajetória na área de tecnologia e mais de 3 anos de experiência no setor de Engenharia.
 Atualmente, meu foco está no desenvolvimento de soluções robustas utilizando o ecossistema **.NET**, **JavaScript** e **Python**, além de transformar dados em insights estratégicos através de **Business Intelligence** e **SQL**.
