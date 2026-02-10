@@ -1,30 +1,30 @@
 # Olá, eu sou o Gabriel Ribeiro Silva 👋
 
-### Desenvolvedor Fullstack | Analista de Dados
+### Analista de Dados | Desenvolvedor Fullstack 
 
-Profissional com sólida trajetória na área de tecnologia e mais de 3 anos de experiência no setor de Engenharia.
-Atualmente, meu foco está no desenvolvimento de soluções robustas utilizando o ecossistema **.NET**, **JavaScript** e **Python**, além de transformar dados em insights estratégicos através de **Business Intelligence** e **SQL**.
+Profissional com trajetória na área de tecnologia e mais de 3 anos de experiência no setor de Engenharia.
+Atualmente, meu foco está em transformar dados em insights estratégicos através de **Business Intelligence**, **Python** e **SQL**, além do desenvolvimento de soluções robustas utilizando o ecossistema **.NET**, **JavaScript** e **Python**
 
 ---
 
 ## 🚀 Sobre Mim
 
 * 🎓 **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas (Universidade Cruzeiro do Sul).
-* 🤖 **Inovação:** Experiência prática com IA Generativa e manipulação de bancos de dados em nuvem.
-* 🌍 **Idiomas:** Inglês Avançado.
+* 🤖 **Inovação:** Experiência prática com IA Generativa,MLOps, Automação de Processos e manipulação de bancos de dados em nuvem.
+* 🌍 **Idiomas:** Inglês B2.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
+### Dados & BI
+- **Bancos de Dados:** SQL e Modelageme Análise de Dados.
+- **Visualização:** Power BI (DAX) e Excel Avançado (VBA).
+- **Cloud:** AWS e Azure.
+
 ### Desenvolvimento Fullstack
 - **Linguagens:** C# (.NET), JavaScript (ES6+), Python, HTML5 e CSS3.
 - **Versionamento:** Git e GitHub.
-
-### Dados & BI
-- **Bancos de Dados:** SQL e Modelagem de Dados.
-- **Visualização:** Power BI (DAX) e Excel Avançado (VBA).
-- **Cloud:** AWS Bedrock, Google Gemini, OpenAI e Azure.
 
 ### Sistemas & Infraestrutura
 - **ERP:** Especialista em rotinas administrativas e suporte Protheus (TOTVS).
