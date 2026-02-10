@@ -10,7 +10,7 @@ Atualmente, meu foco está em transformar dados em insights estratégicos atrav�
 ## 🚀 Sobre Mim
 
 * 🎓 **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas (Universidade Cruzeiro do Sul).
-* 🤖 **Inovação:** Experiência prática com IA Generativa,MLOps, Automação de Processos e manipulação de bancos de dados em nuvem.
+* 🤖 **Inovação:** Experiência prática com IA Generativa, MLOps, Automação de Processos e manipulação de bancos de dados em nuvem.
 * 🌍 **Idiomas:** Inglês B2.
 
 ---
