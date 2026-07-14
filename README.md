@@ -53,7 +53,7 @@ T-Shaped Technology Professional with a multifaceted background in Fullstack Dev
 
 ## Contact
 
-*   **LinkedIn:** [linkedin.com/in/gabriel-r-52420222b](https://www.linkedin.com/in/gabrielrsilva004/)
+*   **LinkedIn:** [linkedin.com/in/gabrielrsilva004](https://www.linkedin.com/in/gabrielrsilva004/)
 *   **Email:** [bielribeiro.silva04@gmail.com](mailto:bielribeiro.silva04@gmail.com)
 
 ---
